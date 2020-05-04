@@ -1,0 +1,33 @@
+
+img {
+    margin-left: 1cm;
+    border-radius: 5%;
+}
+h1 {
+     color: steelblue
+    ;}
+
+body { 
+    margin-left: 1cm;
+    background-color: rgb(228, 228, 228);
+
+}
+#bloque {
+margin-left: 0cm;
+margin-right: auto;
+background-color: steelblue;
+width: 14cm;
+height: 2.5cm;
+}
+#position {
+    margin-left: 8cm;
+}
+#menos {
+    margin-left: 5cm;
+}
+#position2 {
+    margin-left: 9cm;
+}
+#position3 {
+    margin-left: 8.3cm;
+}
